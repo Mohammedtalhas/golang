@@ -14,12 +14,19 @@ func main() {
 	asciival := a <= b
 	fmt.Printf("%t", val)
 	fmt.Printf("%t", asciival)
+	fmt.Printf("%t", asciival || val)
 	/*
-		<
-		>
-		<=
-		>=
-		==
-		!=
+		conditional operator
+			<
+			>
+			<=
+			>=
+			==
+			!=
+
+		Logical Operator
+		  &&
+		  ||
+		  !
 	*/
 }
