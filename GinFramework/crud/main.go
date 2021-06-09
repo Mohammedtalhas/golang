@@ -2,9 +2,9 @@
 package main
 
 import (
-	"first-api/Config"
-	"first-api/Models"
-	"first-api/Routes"
+	"crud/Config"
+	"crud/Models"
+	"crud/Routes"
 	"fmt"
 
 	"github.com/jinzhu/gorm"

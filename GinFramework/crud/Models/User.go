@@ -2,7 +2,7 @@
 package Models
 
 import (
-	"first-api/Config"
+	"github.com/Mohammedtalhas/golang/tree/main/Gin%20Framework/crud/Config"
 	"fmt"
 
 	_ "github.com/go-sql-driver/mysql"

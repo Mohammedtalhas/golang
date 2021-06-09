@@ -1,7 +1,7 @@
 package Controllers
 
 import (
-	"first-api/Models"
+	"github.com/Mohammedtalhas/golang/tree/main/Gin%20Framework/crud/Models"
 	"fmt"
 	"net/http"
 

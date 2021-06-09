@@ -2,7 +2,7 @@
 package Routes
 
 import (
-	"first-api/Controllers"
+	"github.com/Mohammedtalhas/golang/tree/main/Gin%20Framework/crud/Controllers"
 
 	"github.com/gin-gonic/gin"
 )
