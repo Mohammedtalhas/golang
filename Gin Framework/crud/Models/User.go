@@ -2,8 +2,9 @@
 package Models
 
 import (
-	"github.com/Mohammedtalhas/golang/tree/main/Gin%20Framework/crud/Config"
 	"fmt"
+
+	"github.com/Mohammedtalhas/golang/tree/main/GinFramework/crud/Config"
 
 	_ "github.com/go-sql-driver/mysql"
 )

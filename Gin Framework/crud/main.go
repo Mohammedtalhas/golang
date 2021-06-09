@@ -2,10 +2,11 @@
 package main
 
 import (
-	"crud/Config"
-	"crud/Models"
-	"crud/Routes"
 	"fmt"
+
+	"github.com/Mohammedtalhas/golang/tree/main/GinFramework/crud/Config"
+	"github.com/Mohammedtalhas/golang/tree/main/GinFramework/crud/Models"
+	"github.com/Mohammedtalhas/golang/tree/main/GinFramework/crud/Routes"
 
 	"github.com/jinzhu/gorm"
 )
